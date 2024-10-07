@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#sidebarMenu {
+    height: 100vh;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 50px;
+}
